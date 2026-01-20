@@ -23,9 +23,9 @@ export default function Contact() {
         // ----------------------------------------------------------------------
 
         // TEMPORARY: If IDs are missing, fallback to the old mailto behavior
-        const serviceId = "YOUR_SERVICE_ID";
-        const templateId = "YOUR_TEMPLATE_ID";
-        const publicKey = "YOUR_PUBLIC_KEY";
+        const serviceId = "service_a1ufunr";
+        const templateId = "template_81wa0gm";
+        const publicKey = "WOQeo8Pv0KlIRK5Lo";
 
         if (serviceId === "YOUR_SERVICE_ID") {
             // Fallback for demo purposes so it still "works" without their keys
